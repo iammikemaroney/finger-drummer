@@ -1,2 +1,2 @@
 # finger-drummer
-finger drummer, use your keyboard to play the drums
+user plays drums with their keyboard
